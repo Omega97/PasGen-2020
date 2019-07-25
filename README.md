@@ -14,7 +14,4 @@ Master + F1 + PagUp + 97
 To change length, add a space + a number at the end of the string
 You can keep writng kewords like that indefinitely
 
-Examples:
-Amazon
-Amazon 20
-Amazon 30
+Examples: "Amazon", "Amazon 20", "Amazon 30"
