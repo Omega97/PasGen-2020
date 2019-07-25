@@ -6,8 +6,7 @@ Super secure password generator
 Unique passwords will be generated using your username
 You can use almost all the buttons of the keyboard (including all characters, all Fn buttons, PagUp, PadDown, End, arrows, Esc)
 
-Example:
-Master + F1 + PagUp + 97
+Example: "Master" + F1 + PagUp + 97
 
 2) Write a keyword to generate a password
 
