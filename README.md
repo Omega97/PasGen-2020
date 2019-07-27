@@ -18,3 +18,6 @@ Examples: "Amazon", "Amazon 20", "Amazon 30"
 
 Note: Ctrl isn't a char on it's own, but it can be used in combination with almost any other character 
 (like Ctrl + A, Ctrl + Tab, Ctrl + Arrow, Ctrl + F5, Ctrl + Shift + 5, ...)
+
+Note: likewise, Shift isn't a char on it's own, bat it modifies most of the other characters
+(like Shift + 5, Shift + F7)
