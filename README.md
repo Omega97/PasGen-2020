@@ -16,5 +16,5 @@ You can keep writng kewords like that indefinitely.
 Examples: "Amazon", "Amazon 20", "Amazon 30"
 
 
-Note: Ctrl isn't a char on it's own, but it can be used in combination with any other character 
-(like Ctrl + A, Ctrl + Tab, Ctrl + Arrow, Ctrl + F5, ...)
+Note: Ctrl isn't a char on it's own, but it can be used in combination with almost any other character 
+(like Ctrl + A, Ctrl + Tab, Ctrl + Arrow, Ctrl + F5, Ctrl + Shift + 5, ...)
